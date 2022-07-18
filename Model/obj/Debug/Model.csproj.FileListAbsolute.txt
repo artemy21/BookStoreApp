@@ -1,0 +1,12 @@
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Model\bin\Debug\Model.dll
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Model\bin\Debug\Model.pdb
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Model\obj\Debug\Model.dll
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Model\obj\Debug\Model.pdb
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Model\bin\Debug\Model.dll
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Model\bin\Debug\Model.pdb
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Model\obj\Debug\Model.dll
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Model\obj\Debug\Model.pdb

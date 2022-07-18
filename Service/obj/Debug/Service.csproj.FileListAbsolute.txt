@@ -1,0 +1,18 @@
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\bin\Debug\Service.dll
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\bin\Debug\Service.pdb
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\bin\Debug\Model.dll
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\bin\Debug\Model.pdb
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\obj\Debug\Service.dll
+C:\Users\Gamer\Desktop\OOProject2\LibraryApp2\Service\obj\Debug\Service.pdb
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\bin\Debug\Service.dll
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\bin\Debug\Service.pdb
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\bin\Debug\Model.dll
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\bin\Debug\Model.pdb
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\obj\Debug\Service.dll
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\Service\obj\Debug\Service.pdb

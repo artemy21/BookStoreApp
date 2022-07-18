@@ -1,0 +1,20 @@
+﻿LibraryApp2
+
+
+winexe
+C#
+.cs
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\LibraryApp2\obj\Debug\
+LibraryApp2
+none
+false
+DEBUG;TRACE
+C:\Users\Gamer\source\repos\library app\OOProject2\LibraryApp2\LibraryApp2\App.xaml
+131500502399
+
+40-1011000474
+124-192328412
+MainWindow.xaml;Views\CustomerViews\CartView.xaml;Views\CustomerViews\CatalogView.xaml;Views\CustomerViews\CustomerView.xaml;Views\CustomerViews\OrderAmountView.xaml;Views\ManagerViews\DiscountView.xaml;Views\ManagerViews\EditItemView.xaml;Views\ManagerViews\InvoiceView.xaml;Views\ManagerViews\MailView.xaml;Views\ManagerViews\ManagerView.xaml;Views\ManagerViews\NotificationView.xaml;Views\ManagerViews\OrderView.xaml;Views\ManagerViews\StorageView.xaml;
+
+False
+
